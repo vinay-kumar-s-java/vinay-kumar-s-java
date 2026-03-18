@@ -1,0 +1,7 @@
+"""int=10#integer data type
+y=20.55#float data typr
+myString="Hello World"
+print(int+y)"""
+
+String="Sisya"
+print(String)
