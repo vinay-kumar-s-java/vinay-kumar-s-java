@@ -1,7 +1,7 @@
 lis=[1,3,2,2,7]
 _1list=lis*2
 lis.append(" ")
-#print(list)
+print(list)
 #list.pop(2)
 #lis.reverse()
 #print(list)
