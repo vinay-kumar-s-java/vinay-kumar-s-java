@@ -1,0 +1,15 @@
+isStudent=1
+if (isStudent<0):
+    print("Negative")
+elif(isStudent<10):
+        print("less than 10")
+elif(isStudent<20):
+        print("less than 20")       
+else:
+    print("positive")
+
+
+   
+
+
+
