@@ -1,0 +1,11 @@
+class car:
+    def __init__(self,name,model,price):
+        self.name=name#instance variables
+        self.model=model#instance variables
+        self.price=price#instance variables
+    
+    def display(self):
+        print(f"car name={self.name},model={self.model},price={self.price}")
+    
+car1=("maruthi",2021,700000)
+print(car1)
